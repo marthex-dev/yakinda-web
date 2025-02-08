@@ -1,4 +1,4 @@
-# Yakında Teması
+## Yakında Teması [ HTML ]
 
 Modern tasarımı ve kullanıcı dostu özellikleriyle, web sitenizi tanıtmak için mükemmel bir seçenek olan "Yakında Teması", HTML tabanlı temiz ve düzenli kod yapısıyla dikkat çekiyor.
 
